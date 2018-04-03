@@ -5,6 +5,8 @@ This model development kit was written in MATLAB for comparison and validation o
 
 See also: LIISim 3 Desktop (http://www.github.com/LIISim/LIISim3)  
 
+Current version: 0.0.1 (2018-04-03) 
+
 **Author:**  
 Raphael Mansmann (raphael.mansmann@uni-due.de)  
 University of Duisburg-Essen   
